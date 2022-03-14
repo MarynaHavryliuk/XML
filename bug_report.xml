@@ -1,1 +1,14 @@
-
+<bug_report>
+  <Bug ID>123</Bug ID>
+  <Severity>Major</Severity>
+  <Priority>High</Priority>
+  <Summary>The information isn't translated on the site after pushing the button "ukr" in the header</Summary>
+  <Bug description>The information isn't translated on the site after pushing the button "ukr" in the header</Bug description>
+     <Steps to reproduse>
+                 <1>Open the site: http..</1>
+                 <2>Push the button "ukr" in the header</2>
+                 <3>Pay attention to the information</3>
+     </Steps to reproduse>
+ <Actual result>The information is submitted in English on the site after pushing the button "ukr" in the header</Actual result>
+ <Expected result>The information is submitted in Ukrainian on the site after pushing the button "ukr" in the header</Expected result>
+</bug_report>
